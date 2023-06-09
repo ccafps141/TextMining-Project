@@ -5,7 +5,7 @@ By following these steps
 [Python>=3.11](https://www.python.org/) should be available on your system.
 
 ```console
-git clone https://github.com/jmyapple9/nthu-course-filter.git
+git clone https://github.com/ccafps141/TextMining-Project.git
 cd TextMining-Project
 ```
 
