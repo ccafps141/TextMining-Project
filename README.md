@@ -15,3 +15,9 @@ pip3 install -r requirements.txt
 ```console
 python3 main.py
 ```
+
+
+#### (Unix-base system)
+``` console
+./main.py
+```
