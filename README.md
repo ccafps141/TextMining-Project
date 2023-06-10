@@ -7,6 +7,7 @@ By following these steps
 ```console
 git clone https://github.com/ccafps141/TextMining-Project.git
 cd TextMining-Project
+pip3 install -r requirements.txt
 ```
 
 ```console
