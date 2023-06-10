@@ -10,6 +10,8 @@ cd TextMining-Project
 pip3 install -r requirements.txt
 ```
 
+#### Run the app (all OS) 
+> If you use anaconda, replace them with your own commands.
 ```console
 python3 main.py
 ```
