@@ -10,6 +10,11 @@ cd TextMining-Project
 pip3 install -r requirements.txt
 ```
 
+#### Open setting.py to complete the following settings
+1. channel_access_token
+2. channel_secret
+3. openai_api_key
+
 #### Run the app (all OS) 
 > If you use anaconda, replace them with your own commands.
 ```console
